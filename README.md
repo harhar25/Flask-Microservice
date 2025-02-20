@@ -16,7 +16,7 @@ Setup & Installation
 
 1. Clone the Repository ```git clone <url>```
 2. cd to Microservices ```cd Microservices```
-3. To install the required dependencies and run the project just type ```docker-compose up --build```
+3. To install the required dependencies and run the project just type ```docker-compose up --build``` in linux ```sudo docker-compose up --build```
 
 
 
